@@ -1,0 +1,22 @@
+{
+  "name": "YadisNails",
+  "short_name": "YadisNails",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/yadisnails/",
+  "scope": "/yadisnails/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/yadisnails/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/yadisnails/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
